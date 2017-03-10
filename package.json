@@ -1,0 +1,40 @@
+{
+  "name": "gpm-plugin-npmi",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "version": "1.0.0",
+  "description": "gpm plugin for run npm install after add repository",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpmer/gpm-plugin-npmi.git"
+  },
+  "keywords": [
+    "git",
+    "gpm",
+    "gpmx",
+    "github",
+    "manager",
+    "plugin"
+  ],
+  "author": "axetroy",
+  "contributors": [
+    {
+      "name": "Axetroy",
+      "email": "troy450409405@gmail.com",
+      "url": "https://axetroy.github.io/"
+    },
+    {
+      "name": "WindomZ",
+      "url": "https://github.com/WindomZ"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gpmer/gpm-plugin-npmi/issues"
+  },
+  "preferGlobal": true,
+  "homepage": "https://github.com/gpmer/gpm-plugin-npmi#readme"
+}
