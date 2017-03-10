@@ -11,4 +11,4 @@ function npmInstall(done) {
   });
 }
 
-exports.GPM_PLUGIN = npmInstall;
+exports.add = npmInstall;
