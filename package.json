@@ -4,7 +4,7 @@
   "engines": {
     "node": ">=6.9.0"
   },
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "gpm plugin for run npm install after add repository",
   "scripts": {},
   "repository": {
