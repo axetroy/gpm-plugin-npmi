@@ -36,5 +36,13 @@
     "url": "https://github.com/gpmer/gpm-plugin-npmi/issues"
   },
   "preferGlobal": true,
-  "homepage": "https://github.com/gpmer/gpm-plugin-npmi#readme"
+  "homepage": "https://github.com/gpmer/gpm-plugin-npmi#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "co": "^4.6.0",
+    "fs-extra": "^2.0.0",
+    "install": "^0.8.7",
+    "npm": "^4.4.1",
+    "which": "^1.2.12"
+  }
 }
