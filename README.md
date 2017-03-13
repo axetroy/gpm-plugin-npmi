@@ -1,6 +1,10 @@
 # gpm-plugin-npmi 
 
-[gpm](https://github.com/gpmer/gpm.js) plugin for run npm install after add repository
+[gpm](https://github.com/gpmer/gpm.js) plugin for run ``npm install`` after add repository
+
+if the project contain ``package.json`` and ``yarn.lock`` and command ``yarn`` is valid.
+
+will run ``yarn`` instead of ``npm install``
 
 ## Installation
 ```bash
