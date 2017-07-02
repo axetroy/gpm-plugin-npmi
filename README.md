@@ -1,5 +1,7 @@
 # gpm-plugin-npmi 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gpmer/gpm-plugin-npmi.svg)](https://greenkeeper.io/)
+
 [gpm](https://github.com/gpmer/gpm.js) plugin for run ``npm install`` after add repository
 
 if the project contain ``package.json`` and ``yarn.lock`` and command ``yarn`` is valid.
